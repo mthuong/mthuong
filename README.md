@@ -1,4 +1,4 @@
-### Hi there. I'm [Thường (Tom)](https://github.com/mthuong) 👋
+### <img src='https://user-images.githubusercontent.com/1086057/134810009-0d4f95f7-68e5-4416-a86f-2f8f8dac1e41.gif' alt='Hi' width="24"/> I'm [Thường (Tom)](https://github.com/mthuong)
 
 🏠 I’m currently living at HCM City, Vietnam 🇻🇳.<br/>
 👨‍💻 I’m currently working as a Mobile Developer with iOS, React Native, Flutter.<br/>
