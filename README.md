@@ -24,5 +24,5 @@ Other | <a href="https://firebase.google.com/"><img src='https://user-images.git
 [![mthuong's GitHub stats](https://github-readme-stats.vercel.app/api?username=mthuong&show_icons=true&count_private=true&theme=merko)](https://github.com/mthuong) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthuong&layout=compact&theme=merko)](https://github.com/mthuong)
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/1086057/134806459-636f3792-ac2b-44cf-8710-5f8f9f4cd3c9.jpg" data-canonical-src="https://user-images.githubusercontent.com/1086057/134806459-636f3792-ac2b-44cf-8710-5f8f9f4cd3c9.jpg" height="400" />
+<img src="https://user-images.githubusercontent.com/1086057/134806459-636f3792-ac2b-44cf-8710-5f8f9f4cd3c9.jpg" data-canonical-src="https://user-images.githubusercontent.com/1086057/134806459-636f3792-ac2b-44cf-8710-5f8f9f4cd3c9.jpg" width="500vw" />
 </p>
