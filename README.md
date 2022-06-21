@@ -5,7 +5,7 @@
 🔭 I also can do ReactJS and NodeJS.<br/>
 📫 Contact me at [Linkedin](https://www.linkedin.com/in/thuong-nguyen-manh/). <br/>
 ☕️ I’m coffeer.<br/>
-⚡ I love travelling to Đà Lạt.<br/>
+⚡ I love traveling to Đà Lạt.<br/>
 
 ![](https://komarev.com/ghpvc/?username=mthuong&color=green) [![mthuong's StackOverflow](https://stackoverflow-badge.vercel.app/?userID=741291)](https://stackoverflow.com/users/741291/mthuong)
 
